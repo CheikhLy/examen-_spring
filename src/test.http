@@ -1,0 +1,6 @@
+POST /api/clients
+{
+  "nom": "Amadou Diallo",
+  "telephone": "+221771234567",
+  "adresse": "Parcelles Assainies, Dakar"
+}
